@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ideascale.org.pom.testcases.LoginTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-03T19:15:12" hostname="HP-PAVILION550-" time="29.594">
+  <properties/>
+  <testcase name="loginWithValidCredentials[0](trialqa.ideascale@gmail.com, brewski01)" classname="com.ideascale.org.pom.testcases.LoginTest" time="13.092"/>
+  <testcase name="loginWithValidCredentials[1](trialqa1.ideascale@gmail.com, brewski01)" classname="com.ideascale.org.pom.testcases.LoginTest" time="12.274"/>
+  <system-out><![CDATA[Login Passed
+Login Passed
+]]></system-out>
+  <system-err><![CDATA[ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 65284
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jan 04, 2023 1:15:04 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Jan 04, 2023 1:15:05 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 108, so returning the closest version found: 106
+Jan 04, 2023 1:15:05 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 108 of 106
+Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 60959
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jan 04, 2023 1:15:26 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Jan 04, 2023 1:15:26 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 108, so returning the closest version found: 106
+Jan 04, 2023 1:15:26 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 108 of 106
+]]></system-err>
+</testsuite>
